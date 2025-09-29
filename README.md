@@ -24,13 +24,7 @@ It is designed for reverse engineering, debugging, and protocol analysis. The to
 ### Visual Enhancements
 1. **Separate Panels (Tx/Rx)**
 2. **Combined Stream View**
-3. **🔍 Raw Hex Dump**
-
-### 🎨 Görsel Özellikler
-- **Color-coded streams (Tx/Rx)**
-- **Dark Theme**
-- **Auto-Scroll**
-- **Timestamp with millisecond precision**
+3. **Raw Hex Dump**
 
 ## Installation
 
